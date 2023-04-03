@@ -31,7 +31,7 @@
   <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">State visualization of Go game</h3>
+  <h3 align="center">States visualization of Go game</h3>
 
   <p align="center">
     Comparing the Go games played between professionals and AI which is trained to play Go game.
