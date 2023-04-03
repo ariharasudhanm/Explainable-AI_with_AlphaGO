@@ -14,7 +14,7 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Explainable-AI_with_AlphaGO/graphs/contributors)
-[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/graphs/commit-activity)
+[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Explainable-AI_with_AlphaGO/graphs/commit-activity)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
 <!-- [![license-url][license-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/blob/main/LICENSE) -->
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
